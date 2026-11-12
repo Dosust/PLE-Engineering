@@ -1,0 +1,23 @@
+# Private credentials and environment
+.env
+.env.*
+!.env.example
+local.env
+*.pem
+*.key
+secrets/
+# PLE inputs, heavyweight model output and offline evaluation data
+.cache/
+runs/
+data/
+dataset/
+*.tar
+*.tar.gz
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+.DS_Store
+# Google eval/run.py exports artifacts/ and these MUST be committed explicitly
+!artifacts/
