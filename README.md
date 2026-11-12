@@ -20,6 +20,7 @@ The benchmark's public grading methods are programmatic checks, AI rubric judgme
 1. [Benchmark, setup and data](docs/BENCHMARK_AND_DATA.md)
 2. [All 29 public task descriptions](docs/TASK_CATALOG.md)
 3. [Architecture and engineering quality gates](docs/ARCHITECTURE_AND_GATES.md)
+   - [Programming languages and computational engineering principles](docs/PROGRAMMING_LANGUAGES_AND_ENGINEERING_PRINCIPLES.md)
 4. [Experimental and ablation protocol](docs/EXPERIMENTAL_PROTOCOL.md)
 5. [Roadmap and explicit status](docs/ROADMAP.md)
 6. [Fair-play and security constraints](docs/FAIR_PLAY_AND_SECURITY.md)
